@@ -3,8 +3,8 @@
 // @version      1.00
 // @description  all my homies hate genome.
 // @author       you know who i am.
-// @downloadURL  https
-// @updateURL    https
+// @downloadURL  https://github.com/useruserusernames/ayylmao/raw/main/index.js
+// @updateURL    https://github.com/useruserusernames/ayylmao/raw/main/index.js
 // @match        https://docs.google.com/spreadsheets/d/*
 // @match        https://docs.google.com/document/d/*
 // @match        https://docs.google.com/presentation/d/*
